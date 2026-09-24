@@ -117,4 +117,4 @@ Durante a aula, validamos e geramos a **Proposta 197/2026**.
 
 - **Desenvolvido por:** Rafael Agra
 - **Evento:** Imersão IA (Oracle Next Education — ONE + Alura)
-- **Ambiente de Execução:** Claude Desktop / Cowork & Python/Docx Generator
+- **Ambiente de Execução:** Claude Desktop / Cowork
